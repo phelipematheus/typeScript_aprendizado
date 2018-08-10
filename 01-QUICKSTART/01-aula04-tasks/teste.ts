@@ -1,0 +1,1 @@
+let minha_variavel:string = "Natália";
